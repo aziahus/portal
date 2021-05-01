@@ -10,3 +10,6 @@ Ini adalah starter web.
 - Fourth item
 
 ![Tux, the Linux mascot](/assets/images/tux.png)
+
+
+Sistem ini adalah bagi memudahkan pengurusan penjualan borang tender dan sebut harga.
